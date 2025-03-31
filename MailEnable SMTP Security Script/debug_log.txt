@@ -1,0 +1,34 @@
+[15:16:21.70] Script execution started. 
+[15:16:21.71] Extracted failed login attempts to failed_logins.txt. 
+[15:16:21.72] Extracted IPs to temp_ips.txt. 
+[15:16:21.72] Extracted IPs before sorting: 
+218.62.48.58
+81.30.107.98
+81.30.107.99
+81.30.107.92
+218.62.48.58
+81.30.107.95
+81.30.107.92
+81.30.107.92
+218.62.48.58
+81.30.107.97
+81.30.107.92
+81.30.107.92
+[15:16:21.76] Processed unique IPs to failed_ips.txt. 
+[15:16:21.76] Unique IPs after sorting: 
+218.62.48.58
+81.30.107.92
+81.30.107.95
+81.30.107.97
+81.30.107.98
+81.30.107.99[15:16:21.78] Removed temp file: temp_ips.txt. 
+[15:16:21.79] remove_ips.txt found. Starting cleanup. 
+[15:16:21.79] Removed specified IPs from failed_ips.txt. 
+[15:16:21.79] Cleaned IPs after removal: 
+218.62.48.58
+81.30.107.92
+81.30.107.95
+81.30.107.97
+81.30.107.98
+81.30.107.99[15:16:21.79] Cleanup complete. 
+[15:16:21.83] Script execution completed successfully. 

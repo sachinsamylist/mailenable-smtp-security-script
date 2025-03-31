@@ -1,0 +1,1 @@
+[2025-03-31 15:16:34.44] INFO: Data has been successfully added to SMTP-DENY.SAV and SMTP-DENY.TAB. 
